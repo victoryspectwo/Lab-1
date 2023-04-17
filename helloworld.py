@@ -1,1 +1,1 @@
-print ("ET0735-DevOps is a pretty cool module")
+print ("ET0735-DevOps with AIOT is a pretty cool module")
